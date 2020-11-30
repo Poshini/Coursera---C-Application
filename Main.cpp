@@ -2,7 +2,8 @@
 #include "Calc.h"
 using namespace std;
 
-int main() {
+int main() 
+{
    int sentinal = 0;
    do {
         std::cout << "Please enter the number of expressions you would like to store: " << std::endl;
