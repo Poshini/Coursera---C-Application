@@ -1,7 +1,6 @@
 //
 // Created by Anirudh Balasubramanian on 5/14/20.
 //
-
 #include <iostream>
 #include "Calc.h"
 #include "stddef.h"
