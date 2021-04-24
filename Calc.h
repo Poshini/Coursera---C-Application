@@ -1,7 +1,7 @@
 
 #ifndef RHYMECALC_CALC_H
 #define RHYMECALC_CALC_H
-
+ 
 
 #include <string>
 
