@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Calc.h"
 using namespace std;
-
+ 
 int main() 
 {
    int sentinal = 0;
