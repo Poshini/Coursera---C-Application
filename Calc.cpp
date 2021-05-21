@@ -46,7 +46,7 @@ double Calc::process(std::string userInput, double prevValue) {
     else if(cleansedString[0] == '*' || cleansedString[0] == '/'){
         if(cleansedString[0] == '*'){
             return prevValue * value;
-        }
+        } 
         else{
             if(value != 0){
                 std::exit(0);
